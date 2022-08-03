@@ -1,0 +1,38 @@
+.titleArea {
+	display: flex;
+	justify-content: center;
+}
+
+.buttonArea {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.button {
+	background-color: var(--theme-color);
+	width: 120px;
+	height: 40px;
+	border: none;
+	overflow: hidden;
+	color: #fff;
+	border-radius: 6px;
+	font-size: 0.9rem;
+	cursor: pointer;
+	font-weight: 600;
+}
+.container {
+	width: 600px;
+}
+
+.inp {
+	border: 0;
+	margin: 10px 10px 20px 10px;
+	padding: 20px;
+	width: 100%;
+	outline: none;
+	background-color: #f5f5f5;
+	font-size: 1rem;
+	border-radius: 6px;
+	/* color: var(--dim-text-color); */
+}

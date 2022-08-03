@@ -1,0 +1,23 @@
+:root {
+	--dim-text-color: #868e96;
+	--theme-color: #5ac69f;
+	--theme-gradient: linear-gradient(90deg, rgb(51, 159, 163) 0%, rgba(90, 198, 159, 1) 100%);
+}
+
+html,
+body {
+	padding: 0;
+	margin: 0;
+	background-color: #fff;
+	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans,
+		Helvetica Neue, sans-serif;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+* {
+	box-sizing: border-box;
+}

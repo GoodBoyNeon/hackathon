@@ -1,0 +1,17 @@
+.button {
+	width: 105px;
+	height: 32px;
+	border-radius: 8px;
+	border: none;
+	color: #fff;
+	background-color: var(--theme-color);
+	cursor: pointer;
+}
+
+.button1 {
+	margin-right: 10px;
+}
+
+.button2 {
+	margin-left: 10px;
+}
